@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at wesley-hgkk.onrender.com
 
-- 💬 Ask me about **python,C#, and MERN.**
+- 💬 Ask me about **python, C#, and MERN.**
 
 - 📫 How to reach me **wesleykirui2021@gmail.com**
 
