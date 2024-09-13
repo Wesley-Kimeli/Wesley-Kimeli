@@ -23,7 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/wesley_kirui_1fb86cdbba24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wesley_kirui_1fb86cdbba24" height="30" width="40" /></a>
-[![MasterHead](https://iconscout.com/lottie-animation/back-end-developer-error-404-10237352)]
 <a href="https://twitter.com/wesley41541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wesley41541" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wesley kimeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesley kimeli" height="30" width="40" /></a>
 </p>
